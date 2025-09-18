@@ -1,0 +1,22 @@
+## **Activity 1: Understanding Caching Concepts**
+
+### **Theory Check**
+Before diving into implementation, answer these questions:
+
+1. **What is caching and why is it important?**
+   - Write a 2-sentence explanation
+   Caching is the process of storing frequently accessed data in a temporary storage (cache) so it can be retrieved quickly instead of recalculating or fetching it from a slower source. It improves performance, reduces latency, and lowers the load on underlying systems.
+
+   - List 3 benefits of caching
+
+2. **What are the different types of caching?**
+   - Database query caching
+   - Template caching
+   - View caching
+   - Full-page caching
+
+3. **Cache Invalidation Challenge**
+   - What problems can arise with stale cached data?
+   - When should cache be cleared?
+
+**Expected Time:** 15 minutes
