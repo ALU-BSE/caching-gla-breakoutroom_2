@@ -28,3 +28,6 @@ Before diving into implementation, answer these questions:
 
 
    - When should cache be cleared?
+When underlying data changes
+When cache entries expire (TTL – time-to-live)
+If corrupted cache
